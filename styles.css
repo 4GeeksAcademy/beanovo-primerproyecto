@@ -1,0 +1,150 @@
+* { margin:0;
+    padding:0;
+    border:0;}
+
+body{
+    background-color: black;
+}
+
+#home{
+    width: 100%;
+    height: 100vh;  
+    }
+
+#home .container{
+    width: 100%;
+    height:auto;
+    
+    
+}
+    
+
+   /* #home .container header{
+    width: 100%;
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;}*/
+
+/*#home .container header .titulo{
+    width: 500px;
+    margin: 0 auto; }*/
+
+.contenido {
+    width: 100%;
+    height: 80vh;
+    
+}
+.post{
+    width: 500px;
+    margin: 20px auto;
+    border: 1px solid black;
+    padding: 50px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    
+    
+}
+
+    
+.post-header{
+       width: 100%;
+       display: flex;
+       justify-content: space-between;
+       align-items: center;
+       padding: 0 10px;
+       box-sizing: border-box;
+       background-color: white;
+       height: 48px;
+
+    
+    }
+   /* h2{
+        justify-content: center;
+    }*/
+.post-body{
+        width: 100%;
+        height: 400px;
+        overflow: hidden;
+    }
+.post-body img{
+        width: 100%;
+        height: 475px;
+        object-fit: cover;
+        object-position: center;
+    }
+.post-footer{
+        width:100% ;
+        height:auto;
+        padding: 10px 10px;
+        box-sizing: border-box;
+        background-color: white;
+    }
+.post-footer{
+        
+        text-align: justify;
+        
+    } */
+.post-icons{
+        display: flex;
+        margin:auto;
+        padding:10px;
+        margin:5px;
+    
+    }
+.item{
+        margin:5px;
+          
+    }
+.item2{ 
+        margin: 5px;
+        /*padding: 5px;*/
+    }
+    
+.first{
+        display: flex;
+        display: nowrap;
+        
+        
+
+    }
+       
+.fav{
+        display: flex;
+        justify-content:right;
+        float: right;
+        align-items: flex-end;
+        margin-left: 410px;
+        
+    }
+.titulo1{
+        font-size: 15px;
+        display: flex;
+        /*text-align: center;*/
+
+    }
+.titulo2{
+        display:flex;
+        font-size: 12px;
+    }
+
+
+     /*.fa-brands fa-html5{
+        display: flex;
+        justify-content: flex-start;
+
+     }*/
+     /*.post-header h2{
+        display: flex;
+        align-items: flex-start;
+     }*/
+h3{
+        display:flex;
+        flex-direction: column;
+        margin-right: auto;
+        padding: 5px;
+     }
+
+    
+        
+    
