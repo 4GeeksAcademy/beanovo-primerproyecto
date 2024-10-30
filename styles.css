@@ -94,11 +94,12 @@ body{
     }
 .item{
         margin:5px;
+        padding: 5px;
           
     }
 .item2{ 
         margin: 5px;
-        /*padding: 5px;*/
+        padding: 5px;
     }
     
 .first{
